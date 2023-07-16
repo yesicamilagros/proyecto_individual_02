@@ -2,6 +2,10 @@
 
 <h1 align="center"> implicancias en los accesos a una red </h1>
 
+<p align ="center" width="100%">
+    <img width="60%" src="image\intrnet.jpg">
+</p>
+
 *[Índice](#índice)
 
 *[Descripción del proyecto](#descripción-del-proyecto)
@@ -19,7 +23,7 @@
 *[Conclusión](#conclusión)
 
 # descripción-del-proyecto
-muy a menudo tenemos la necesidad de representar nuestro conjunto de datos en un diagrama o un dibujo representativo ,centrarse mas en el analisis , pues el proceso de EDA precede al modelamiento, se formula supuestos o hipotesis .el proyecto esta involucrado en encontrar objetos bajo analisis : las implicancias en los accesos a un internet fija , medicion de aumento de accesos segun un tipo de tecnologia que se ofrezca,el aumento de ingresos trimestrales de los operadores que brindan el servicio de internet,  medicion de aumento de accesos segun la velocidad de bajada adquirida. Y dar informe sobre como se comportan estas metricas , bajo que ambiente se esta considerando las mediciones .
+muy a menudo tenemos la necesidad de representar nuestro conjunto de datos en un diagrama o un dibujo representativo ,centrarse mas en el analisis , pues el proceso de EDA precede al modelamiento, se formula supuestos o hipotesis .este proyecto esta involucrado en encontrar objetos bajo analisis : las implicancias en los accesos a un internet fija , medicion de aumento de accesos segun un tipo de tecnologia que se ofrezca,el aumento de ingresos trimestrales de los operadores que brindan el servicio de internet,  medicion de aumento de accesos segun la velocidad de bajada adquirida. Y dar informe sobre como se comportan estas metricas , bajo que ambiente se esta considerando las mediciones .
 
 # Características-de-la-aplicación-y-demostración
 
@@ -27,8 +31,15 @@ muy a menudo tenemos la necesidad de representar nuestro conjunto de datos en un
 y existen anomalias (datos atipicos) , desde el primer trimestre del año 2014 hasta el tercer trimestre del año 2022 el numero de accesos al servicio de internet por cada 100 hogares crecio progresivamente y en provincia el mayor numero de accesos a internet lo tiene capital federal
 
 
+<p align ="center" width="100%">
+    <img width="60%" src="image\newplot.png">
+</p>
+   
 - las variables numero de accesos al servicio de internet por cada 100 hogares por trimestre y numero de accesos al servicio de internet por cada 100 habitantes estan correlacionadas puesto que tiene una relacion lineal entre las dos variables con una pendiente positiva y una linealidad muy significativa. corroborando en la matriz de correlacion ( coeficiente de correlacion =1).
 
+ <p align ="center" width="100%">
+    <img width="60%" src="image\newplot (1).png">
+</p>
 
 - respecto al tipo de tecnologia ,el numero maximo de accesos a internet fijo por tipo de tecnologia esta en el tipo fibra optica , mientras que el numero minimo de accesos a internet fijo por tipo de tecnologia esta en otros tecnologias. y entre los tipos de tecnologia , ADSL tiene una mayor dispersion entre sus datos.
 
@@ -39,16 +50,17 @@ y existen anomalias (datos atipicos) , desde el primer trimestre del año 2014 h
 
 # acceso-proyecto
  
-  - link
+  - link de notebook completo:
+  - link de dashboard del proyecto :
 
 # tecnologías-utilizadas
 
     - ploty
-    - pandas as pd
-    - matplotlib.pyplot as plt
-    - seaborn as sns
-    - numpy as np
-    - plotly.express as px
+    - pandas 
+    - matplotlib.pyplot 
+    - seaborn 
+    - numpy 
+    - plotly.express 
 
 # conclusión
 - se puede  usar una de la dos variables de acceso por hogar o acceso por cada 100 habitantes en trimestre. en este caso analizando sus distribuciones estadisticos optamos por elegir acceso por cada 100 hogares en trimestre puesto que tiene una mejor distribucion en cuanto a dispersion . mientra que acceso por cada 100 hogares en provincia presenta datos atipicos 

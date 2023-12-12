@@ -51,7 +51,7 @@ y existen anomalias (datos atipicos) , desde el primer trimestre del año 2014 h
 # acceso-proyecto
  
   - link de notebook completo: https://colab.research.google.com/drive/1aSKk7TCx8O7mfnI9c6HonD-z__hhr-eo?usp=sharing
-  - link de dashboard del proyecto : https://visualizaciondeproyecto02-4wxxcxfjaetw5dibhe29qs.streamlit.app/visualizciones
+  - link de dashboard del proyecto : https://visualis.onrender.com/visualizciones
 
 # tecnologías-utilizadas
 

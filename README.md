@@ -37,10 +37,6 @@ y existen anomalias (datos atipicos) , desde el primer trimestre del año 2014 h
    
 - las variables numero de accesos al servicio de internet por cada 100 hogares por trimestre y numero de accesos al servicio de internet por cada 100 habitantes estan correlacionadas puesto que tiene una relacion lineal entre las dos variables con una pendiente positiva y una linealidad muy significativa. corroborando en la matriz de correlacion ( coeficiente de correlacion =1).
 
- <p align ="center" width="100%">
-    <img width="60%" src="image\newplot (1).png">
-</p>
-
 
 
 https://github.com/yesicamilagros/proyecto_individual_02/assets/102852467/71e83886-cd0f-4a70-bcdd-b08f1f3ea5bd

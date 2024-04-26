@@ -41,6 +41,12 @@ y existen anomalias (datos atipicos) , desde el primer trimestre del año 2014 h
     <img width="60%" src="image\newplot (1).png">
 </p>
 
+
+
+https://github.com/yesicamilagros/proyecto_individual_02/assets/102852467/71e83886-cd0f-4a70-bcdd-b08f1f3ea5bd
+
+
+
 - respecto al tipo de tecnologia ,el numero maximo de accesos a internet fijo por tipo de tecnologia esta en el tipo fibra optica , mientras que el numero minimo de accesos a internet fijo por tipo de tecnologia esta en otros tecnologias. y entre los tipos de tecnologia , ADSL tiene una mayor dispersion entre sus datos.
 
 # personas-desarrolladores
